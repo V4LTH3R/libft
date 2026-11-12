@@ -137,8 +137,12 @@ Libft contains re-implementations of standard C library functions and additional
 To compile the library, clone the repository and run `make`:
 
 ```bash
-git clone https://github.com
-cd 1337-Libft
+git clone https://github.com/V4LTH3R/libft
+```
+```bash
+cd libft
+```
+```bash
 make
 ```
 
